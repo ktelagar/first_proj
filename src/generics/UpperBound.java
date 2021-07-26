@@ -1,3 +1,4 @@
+/*
 package generics;
 
 import java.util.ArrayList;
@@ -25,3 +26,4 @@ public class UpperBound {
     List<? extends Double> l3 = new ArrayList<Number>();
   }
 }
+*/

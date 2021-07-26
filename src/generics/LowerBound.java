@@ -1,3 +1,4 @@
+/*
 package generics;
 
 import generics.UpperBound.Bird;
@@ -20,3 +21,4 @@ public class LowerBound {
 
   }
 }
+*/
