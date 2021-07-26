@@ -1,4 +1,4 @@
-package lambda;
+package FilteringApplesUsingClasses;
 
 @FunctionalInterface
 public interface ApplePredicate {

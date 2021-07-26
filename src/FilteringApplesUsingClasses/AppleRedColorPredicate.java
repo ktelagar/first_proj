@@ -1,4 +1,4 @@
-package lambda;
+package FilteringApplesUsingClasses;
 
 public class AppleRedColorPredicate implements ApplePredicate{
 
